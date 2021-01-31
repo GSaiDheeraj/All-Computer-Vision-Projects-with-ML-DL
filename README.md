@@ -6,3 +6,6 @@ You can access the documentation here: https://studentprojectshub.blogspot.com/2
 ### Curved lane Detection System for autonomous Vehicles                                                                                                                                            
 You can access the documentation here: https://studentprojectshub.blogspot.com/2020/12/path-detection-based-on-bird-eye-view.html
 
+### Traffic Signs Recognition                                                                                                                                            
+You can access the documentation here: https://studentprojectshub.blogspot.com/2020/12/traffic-signs-recognition-with.html                                                          
+I couldn't upload data because of its size, you can download it from here: https://benchmark.ini.rub.de/gtsrb_news.html                                                              
