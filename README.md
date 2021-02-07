@@ -9,7 +9,7 @@ You can access the documentation here: https://studentprojectshub.blogspot.com/2
 Data: Uploaded the data in the Repository                                                                                                                                                   
 ### Traffic Signs Recognition                                                                                                                                            
 You can access the documentation here: https://studentprojectshub.blogspot.com/2020/12/traffic-signs-recognition-with.html                                                          
-I couldn't upload data because of its size, you can download it from here: https://benchmark.ini.rub.de/gtsrb_news.html                                                              
+I couldn't upload data because of its size, you can download it from here: https://drive.google.com/file/d/1AZeKw90Cb6GgamTBO3mvDdz6PjBwqCCt/view                                                             
 ### Object Detection                                                                                                                                            
 You can access the documentation here: https://studentprojectshub.blogspot.com/2020/12/object-detection-using-opencv-and.html                                                        
 Data: Uploaded the data in the Repository                                                                                                                                                   
