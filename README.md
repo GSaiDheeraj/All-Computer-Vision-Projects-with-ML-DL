@@ -16,3 +16,7 @@ Data: Uploaded the data in the Repository
 ### Face Recognition                                                                                                                                           
 You just need to install OpenCV library, basically that's enough for Face Detection.                                                                                                 
 Data: No Need of Data                                                                                                                                                    
+        
+### OpenCV Sudoku Solver                                                                                                                                            
+You can access the documentation here:                                                                                                                                                              
+Data: Uploaded the data in the Repository                                                                                                                                                   
