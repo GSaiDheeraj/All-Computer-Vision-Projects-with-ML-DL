@@ -11,7 +11,8 @@ https://user-images.githubusercontent.com/60067496/115333615-97097a80-a1b7-11eb-
 
 ### Curved lane Detection System for autonomous Vehicles                                                                                                                                            
 You can access the documentation here: https://studentprojectshub.blogspot.com/2020/12/path-detection-based-on-bird-eye-view.html                                                                 
-Data: Uploaded the data in the Repository                                                                                                                                                   
+Data: Uploaded the data in the Repository                                                                                                                                                                                                                  
+[](https://github.com/GSaiDheeraj/All-Computer-Vision-Projects-with-ML-DL/blob/main/CurvedLaneDetection/project_video.mp4)                                                                 
 ### Traffic Signs Recognition                                                                                                                                            
 You can access the documentation here: https://studentprojectshub.blogspot.com/2020/12/traffic-signs-recognition-with.html                                                          
 I couldn't upload data because of its size, you can download it from here: https://drive.google.com/file/d/1AZeKw90Cb6GgamTBO3mvDdz6PjBwqCCt/view                                                             
