@@ -15,7 +15,12 @@ https://user-images.githubusercontent.com/60067496/115334867-c620eb80-a1b9-11eb-
 ### Curved lane Detection System for autonomous Vehicles                                                                                                                                            
 You can access the documentation here: https://studentprojectshub.blogspot.com/2020/12/path-detection-based-on-bird-eye-view.html                                                                 
 Data: Uploaded the data in the Repository                                                                                                                                                                                                                  
-[](https://github.com/GSaiDheeraj/All-Computer-Vision-Projects-with-ML-DL/blob/main/CurvedLaneDetection/project_video.mp4)                                                                                                                                                                                                                                          
+[](https://github.com/GSaiDheeraj/All-Computer-Vision-Projects-with-ML-DL/blob/main/CurvedLaneDetection/project_video.mp4)   
+
+
+https://user-images.githubusercontent.com/60067496/115335636-31b78880-a1bb-11eb-9c44-fc6593b2eb75.mp4
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Traffic Signs Recognition                                                                                                                                            
 You can access the documentation here: https://studentprojectshub.blogspot.com/2020/12/traffic-signs-recognition-with.html                                                          
@@ -32,8 +37,6 @@ Data: Uploaded the data in the Repository
 
 https://user-images.githubusercontent.com/60067496/115334925-dfc23300-a1b9-11eb-9cf2-fa004df42e21.mp4
 
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Face Recognition                                                                                                                                           
@@ -42,7 +45,7 @@ Data: No Need of Data
 
 https://user-images.githubusercontent.com/60067496/115183690-ea1cf800-a0f9-11eb-868e-47d55084048a.mp4
 
-        
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------        
 ### OpenCV Sudoku Solver                                                                                                                                            
 You can access the documentation here:                                                                                                                                                              
 Data: Uploaded the data in the Repository                                                                                                                                                   
