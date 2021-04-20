@@ -7,8 +7,6 @@ Data: Uploaded the data in the Repository
 
 [](All-Computer-Vision-Projects-with-ML-DL/blob/main/Computer%20Vision%20based%20Attendence%20System/attendence_210419.mp4)
 
-https://user-images.githubusercontent.com/60067496/115333615-97097a80-a1b7-11eb-8c37-4a38da7bf7aa.mp4
-
 ### Curved lane Detection System for autonomous Vehicles                                                                                                                                            
 You can access the documentation here: https://studentprojectshub.blogspot.com/2020/12/path-detection-based-on-bird-eye-view.html                                                                 
 Data: Uploaded the data in the Repository                                                                                                                                                                                                                  
