@@ -3,7 +3,9 @@ All the projects that uses camera access will be uploaded here
 
 ### Computer Vision based attendenced system                                                                                                                                            
 You can access the documentation here: https://studentprojectshub.blogspot.com/2021/01/computer-vision-based-attendance.html                                                                            
-Data: Uploaded the data in the Repository                                                                                                                                                   
+Data: Uploaded the data in the Repository          
+https://user-images.githubusercontent.com/60067496/115333615-97097a80-a1b7-11eb-8c37-4a38da7bf7aa.mp4
+
 ### Curved lane Detection System for autonomous Vehicles                                                                                                                                            
 You can access the documentation here: https://studentprojectshub.blogspot.com/2020/12/path-detection-based-on-bird-eye-view.html                                                                 
 Data: Uploaded the data in the Repository                                                                                                                                                   
