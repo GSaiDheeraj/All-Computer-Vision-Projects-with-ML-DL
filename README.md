@@ -9,6 +9,9 @@ Data: Uploaded the data in the Repository
 
 https://user-images.githubusercontent.com/60067496/115334867-c620eb80-a1b9-11eb-93d0-5ff04b76f36e.mp4
 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Curved lane Detection System for autonomous Vehicles                                                                                                                                            
 You can access the documentation here: https://studentprojectshub.blogspot.com/2020/12/path-detection-based-on-bird-eye-view.html                                                                 
 Data: Uploaded the data in the Repository                                                                                                                                                                                                                  
@@ -26,6 +29,8 @@ https://user-images.githubusercontent.com/60067496/115333615-97097a80-a1b7-11eb-
 ### Object Detection                                                                                                                                            
 You can access the documentation here: https://studentprojectshub.blogspot.com/2020/12/object-detection-using-opencv-and.html                                                        
 Data: Uploaded the data in the Repository      
+
+https://user-images.githubusercontent.com/60067496/115334925-dfc23300-a1b9-11eb-9cf2-fa004df42e21.mp4
 
 
 
