@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/60067496/115334925-dfc23300-a1b9-11eb-
 You just need to install OpenCV library, basically that's enough for Face Detection.                                                                                                 
 Data: No Need of Data     
 
-https://user-images.githubusercontent.com/60067496/115183690-ea1cf800-a0f9-11eb-868e-47d55084048a.mp4
+https://user-images.githubusercontent.com/60067496/147391324-77ac2f00-96ff-423c-bdcb-dc6c78561c40.mp4
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------        
 ### OpenCV Sudoku Solver                                                                                                                                            
