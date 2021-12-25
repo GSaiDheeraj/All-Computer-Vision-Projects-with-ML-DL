@@ -48,4 +48,7 @@ https://user-images.githubusercontent.com/60067496/115183690-ea1cf800-a0f9-11eb-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------        
 ### OpenCV Sudoku Solver                                                                                                                                            
 You can access the documentation here:                                                                                                                                                              
-Data: Uploaded the data in the Repository                                                                                                                                                   
+Data: No need of data, The required image is uploaded.                                                                                                                                        
+
+https://user-images.githubusercontent.com/60067496/147391296-5cb2393e-4ac2-48ee-a48d-0250b79c3b2b.mp4
+
